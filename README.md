@@ -6,7 +6,7 @@ Building A project  using Multiple framework And Display one component with Each
 ## Goals:
 
 - using three framework : Done.
-- using compentent of each & print it: Done.
+- using component of each & print it: Done.
 
 ## Framework Used:
 
